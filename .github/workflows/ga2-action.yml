@@ -1,0 +1,15 @@
+name: GA2 Workflow
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: 22f3000241@ds.study.iitm.ac.in
+        run: echo "Hello from GA2"
