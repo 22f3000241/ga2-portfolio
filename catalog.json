@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "email": "22f3000241@ds.study.iitm.ac.in",
+    "version": 90278802
+  },
+  "products": [
+    {"id": 1, "name": "Football Pro", "category": "sports", "price": 1500.50, "stock": 20, "rating": 4.5},
+    {"id": 2, "name": "Cricket Bat Elite", "category": "sports", "price": 5500.75, "stock": 10, "rating": 4.7},
+    {"id": 3, "name": "Tennis Racket X", "category": "sports", "price": 3200.40, "stock": 15, "rating": 4.3},
+    {"id": 4, "name": "Basketball Max", "category": "sports", "price": 2100.30, "stock": 18, "rating": 4.6},
+
+    {"id": 5, "name": "Laptop Pro 14", "category": "electronics", "price": 85000.00, "stock": 5, "rating": 4.8},
+    {"id": 6, "name": "Wireless Mouse", "category": "electronics", "price": 1200.00, "stock": 50, "rating": 4.2},
+    {"id": 7, "name": "Mechanical Keyboard", "category": "electronics", "price": 3500.00, "stock": 30, "rating": 4.6},
+    {"id": 8, "name": "Smart Watch Z", "category": "electronics", "price": 9500.00, "stock": 25, "rating": 4.4},
+
+    {"id": 9, "name": "Office Chair Comfort", "category": "furniture", "price": 7800.00, "stock": 12, "rating": 4.1},
+    {"id": 10, "name": "Wooden Desk Prime", "category": "furniture", "price": 15000.00, "stock": 8, "rating": 4.5},
+    {"id": 11, "name": "Bookshelf Classic", "category": "furniture", "price": 6200.00, "stock": 14, "rating": 4.2},
+    {"id": 12, "name": "Bed Frame King", "category": "furniture", "price": 22000.00, "stock": 6, "rating": 4.6},
+
+    {"id": 13, "name": "Men's Running Shoes", "category": "fashion", "price": 3200.00, "stock": 40, "rating": 4.3},
+    {"id": 14, "name": "Women's Jacket", "category": "fashion", "price": 4500.00, "stock": 25, "rating": 4.5},
+    {"id": 15, "name": "Leather Wallet", "category": "fashion", "price": 1800.00, "stock": 60, "rating": 4.2},
+    {"id": 16, "name": "Sunglasses UV", "category": "fashion", "price": 2200.00, "stock": 35, "rating": 4.4},
+
+    {"id": 17, "name": "Cookware Set", "category": "home", "price": 5600.00, "stock": 18, "rating": 4.6},
+    {"id": 18, "name": "Vacuum Cleaner", "category": "home", "price": 12500.00, "stock": 9, "rating": 4.3},
+    {"id": 19, "name": "Air Purifier", "category": "home", "price": 18000.00, "stock": 7, "rating": 4.7},
+    {"id": 20, "name": "Water Heater", "category": "home", "price": 9500.00, "stock": 11, "rating": 4.4},
+    {"id": 21, "name": "Bluetooth Speaker", "category": "electronics", "price": 2700.00, "stock": 45, "rating": 4.5}
+  ],
+  "aggregations": {
+    "sports": {
+      "count": 4,
+      "inventoryValue": 117453.05
+    }
+  }
+}
