@@ -4,31 +4,174 @@
     "version": 90278802
   },
   "products": [
-    {"id": 1, "name": "Football Pro", "category": "sports", "price": 1500.50, "stock": 20, "rating": 4.5},
-    {"id": 2, "name": "Cricket Bat Elite", "category": "sports", "price": 5500.75, "stock": 10, "rating": 4.7},
-    {"id": 3, "name": "Tennis Racket X", "category": "sports", "price": 3200.40, "stock": 15, "rating": 4.3},
-    {"id": 4, "name": "Basketball Max", "category": "sports", "price": 2100.30, "stock": 18, "rating": 4.6},
-
-    {"id": 5, "name": "Laptop Pro 14", "category": "electronics", "price": 85000.00, "stock": 5, "rating": 4.8},
-    {"id": 6, "name": "Wireless Mouse", "category": "electronics", "price": 1200.00, "stock": 50, "rating": 4.2},
-    {"id": 7, "name": "Mechanical Keyboard", "category": "electronics", "price": 3500.00, "stock": 30, "rating": 4.6},
-    {"id": 8, "name": "Smart Watch Z", "category": "electronics", "price": 9500.00, "stock": 25, "rating": 4.4},
-
-    {"id": 9, "name": "Office Chair Comfort", "category": "furniture", "price": 7800.00, "stock": 12, "rating": 4.1},
-    {"id": 10, "name": "Wooden Desk Prime", "category": "furniture", "price": 15000.00, "stock": 8, "rating": 4.5},
-    {"id": 11, "name": "Bookshelf Classic", "category": "furniture", "price": 6200.00, "stock": 14, "rating": 4.2},
-    {"id": 12, "name": "Bed Frame King", "category": "furniture", "price": 22000.00, "stock": 6, "rating": 4.6},
-
-    {"id": 13, "name": "Men's Running Shoes", "category": "fashion", "price": 3200.00, "stock": 40, "rating": 4.3},
-    {"id": 14, "name": "Women's Jacket", "category": "fashion", "price": 4500.00, "stock": 25, "rating": 4.5},
-    {"id": 15, "name": "Leather Wallet", "category": "fashion", "price": 1800.00, "stock": 60, "rating": 4.2},
-    {"id": 16, "name": "Sunglasses UV", "category": "fashion", "price": 2200.00, "stock": 35, "rating": 4.4},
-
-    {"id": 17, "name": "Cookware Set", "category": "home", "price": 5600.00, "stock": 18, "rating": 4.6},
-    {"id": 18, "name": "Vacuum Cleaner", "category": "home", "price": 12500.00, "stock": 9, "rating": 4.3},
-    {"id": 19, "name": "Air Purifier", "category": "home", "price": 18000.00, "stock": 7, "rating": 4.7},
-    {"id": 20, "name": "Water Heater", "category": "home", "price": 9500.00, "stock": 11, "rating": 4.4},
-    {"id": 21, "name": "Bluetooth Speaker", "category": "electronics", "price": 2700.00, "stock": 45, "rating": 4.5}
+    {
+      "id": "prod-90278802-001",
+      "name": "Elite Item 1",
+      "category": "sports",
+      "price": 310.06,
+      "stock": 125,
+      "rating": 3.7
+    },
+    {
+      "id": "prod-90278802-002",
+      "name": "Pro Item 2",
+      "category": "books",
+      "price": 47.03,
+      "stock": 194,
+      "rating": 2.5
+    },
+    {
+      "id": "prod-90278802-003",
+      "name": "Elite Item 3",
+      "category": "sports",
+      "price": 78.58,
+      "stock": 39,
+      "rating": 2.8
+    },
+    {
+      "id": "prod-90278802-004",
+      "name": "Pro Item 4",
+      "category": "books",
+      "price": 377.95,
+      "stock": 59,
+      "rating": 3.4
+    },
+    {
+      "id": "prod-90278802-005",
+      "name": "Elite Item 5",
+      "category": "sports",
+      "price": 372.79,
+      "stock": 183,
+      "rating": 3.3
+    },
+    {
+      "id": "prod-90278802-006",
+      "name": "Premium Item 6",
+      "category": "books",
+      "price": 423.69,
+      "stock": 162,
+      "rating": 4.2
+    },
+    {
+      "id": "prod-90278802-007",
+      "name": "Premium Item 7",
+      "category": "home",
+      "price": 175.42,
+      "stock": 86,
+      "rating": 2.2
+    },
+    {
+      "id": "prod-90278802-008",
+      "name": "Standard Item 8",
+      "category": "books",
+      "price": 165.04,
+      "stock": 173,
+      "rating": 1.3
+    },
+    {
+      "id": "prod-90278802-009",
+      "name": "Pro Item 9",
+      "category": "electronics",
+      "price": 414.04,
+      "stock": 140,
+      "rating": 2.8
+    },
+    {
+      "id": "prod-90278802-010",
+      "name": "Premium Item 10",
+      "category": "electronics",
+      "price": 65.44,
+      "stock": 58,
+      "rating": 2
+    },
+    {
+      "id": "prod-90278802-011",
+      "name": "Pro Item 11",
+      "category": "books",
+      "price": 309.42,
+      "stock": 6,
+      "rating": 2.3
+    },
+    {
+      "id": "prod-90278802-012",
+      "name": "Premium Item 12",
+      "category": "electronics",
+      "price": 56.2,
+      "stock": 135,
+      "rating": 2
+    },
+    {
+      "id": "prod-90278802-013",
+      "name": "Basic Item 13",
+      "category": "sports",
+      "price": 200.28,
+      "stock": 37,
+      "rating": 3.1
+    },
+    {
+      "id": "prod-90278802-014",
+      "name": "Standard Item 14",
+      "category": "books",
+      "price": 347.98,
+      "stock": 81,
+      "rating": 3.4
+    },
+    {
+      "id": "prod-90278802-015",
+      "name": "Elite Item 15",
+      "category": "electronics",
+      "price": 102.09,
+      "stock": 60,
+      "rating": 1.8
+    },
+    {
+      "id": "prod-90278802-016",
+      "name": "Elite Item 16",
+      "category": "home",
+      "price": 414.14,
+      "stock": 12,
+      "rating": 3.2
+    },
+    {
+      "id": "prod-90278802-017",
+      "name": "Basic Item 17",
+      "category": "clothing",
+      "price": 336.93,
+      "stock": 45,
+      "rating": 1.9
+    },
+    {
+      "id": "prod-90278802-018",
+      "name": "Elite Item 18",
+      "category": "electronics",
+      "price": 337.18,
+      "stock": 11,
+      "rating": 1.2
+    },
+    {
+      "id": "prod-90278802-019",
+      "name": "Basic Item 19",
+      "category": "home",
+      "price": 125.72,
+      "stock": 85,
+      "rating": 1.1
+    },
+    {
+      "id": "prod-90278802-020",
+      "name": "Standard Item 20",
+      "category": "clothing",
+      "price": 461.95,
+      "stock": 147,
+      "rating": 1.6
+    },
+    {
+      "id": "prod-90278802-021",
+      "name": "Basic Item 21",
+      "category": "electronics",
+      "price": 222.57,
+      "stock": 30,
+      "rating": 4.6
+    }
   ],
   "aggregations": {
     "sports": {
