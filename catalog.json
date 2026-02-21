@@ -1,7 +1,7 @@
 {
   "metadata": {
     "email": "22f3000241@ds.study.iitm.ac.in",
-    "version": 90278802
+    "version": "90278802"
   },
   "products": [
     {
@@ -101,82 +101,4 @@
       "rating": 2
     },
     {
-      "id": "prod-90278802-013",
-      "name": "Basic Item 13",
-      "category": "sports",
-      "price": 200.28,
-      "stock": 37,
-      "rating": 3.1
-    },
-    {
-      "id": "prod-90278802-014",
-      "name": "Standard Item 14",
-      "category": "books",
-      "price": 347.98,
-      "stock": 81,
-      "rating": 3.4
-    },
-    {
-      "id": "prod-90278802-015",
-      "name": "Elite Item 15",
-      "category": "electronics",
-      "price": 102.09,
-      "stock": 60,
-      "rating": 1.8
-    },
-    {
-      "id": "prod-90278802-016",
-      "name": "Elite Item 16",
-      "category": "home",
-      "price": 414.14,
-      "stock": 12,
-      "rating": 3.2
-    },
-    {
-      "id": "prod-90278802-017",
-      "name": "Basic Item 17",
-      "category": "clothing",
-      "price": 336.93,
-      "stock": 45,
-      "rating": 1.9
-    },
-    {
-      "id": "prod-90278802-018",
-      "name": "Elite Item 18",
-      "category": "electronics",
-      "price": 337.18,
-      "stock": 11,
-      "rating": 1.2
-    },
-    {
-      "id": "prod-90278802-019",
-      "name": "Basic Item 19",
-      "category": "home",
-      "price": 125.72,
-      "stock": 85,
-      "rating": 1.1
-    },
-    {
-      "id": "prod-90278802-020",
-      "name": "Standard Item 20",
-      "category": "clothing",
-      "price": 461.95,
-      "stock": 147,
-      "rating": 1.6
-    },
-    {
-      "id": "prod-90278802-021",
-      "name": "Basic Item 21",
-      "category": "electronics",
-      "price": 222.57,
-      "stock": 30,
-      "rating": 4.6
-    }
-  ],
-  "aggregations": {
-    "sports": {
-      "count": 4,
-      "inventoryValue": 117453.05
-    }
-  }
-}
+      "id":
